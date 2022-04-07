@@ -45,3 +45,5 @@
             _createZombie(_name, randDna);
         }
     }
+	
+	gittest
